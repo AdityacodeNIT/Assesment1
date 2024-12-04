@@ -22,9 +22,6 @@ Clone the repository:
 git clone https://github.com/AdityacodeNIT/Assesment1.git
 cd Assesment1
 Install dependencies:
-
-bash
-Copy code
 npm install
 Start the development server:
 
